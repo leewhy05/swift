@@ -1,0 +1,47 @@
+.left{
+    width: 30% !important;
+    height: 50%;
+}
+
+.yy .btn{
+    font-size: 10px;
+    color: #4DB6AC;
+    border: 1px solid #4DB6AC !important ;
+}
+
+th{
+    border: 0 !important;
+}
+
+.panda{
+    padding: 20px !important;
+}
+
+.App{
+    height: 100vh;
+}
+/* .yoyo{
+    margin-right: 750px;
+} */
+.yo{
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 30px;
+    /* border: 1px solid black; */
+    /* position: relative;/ */
+}
+.dd{
+    margin-left: 100px;
+    width: 800px;
+    height: 80vh;
+    border-radius: 10px;
+}
+.ggg{
+    padding-left: 100px;
+}
+.lo{
+    margin-left: 200px;
+}
+.idan{
+    margin-right: 100px;
+}
